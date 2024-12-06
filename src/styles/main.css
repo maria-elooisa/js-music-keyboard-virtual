@@ -131,5 +131,4 @@ header .column span {
   transform: translateX(-50%); /* Ajusta a posição para centralizar com precisão */
   font-size: 1.5rem; /* Tamanho do texto */
   z-index: 100; /* Garante que o texto fique acima dos outros elementos */
-  color: #42037a;
 }
